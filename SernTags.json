@@ -1,16 +1,16 @@
 {
   "records": [
     {
-      "id": 0,
+      "id": -5472,
       "UserID": "usr_11d21d43-b7ca-415d-a8e4-f2e3eaa76785",
       "DisplayName": "Serenity nexus",
       "Tag": ["<color=#FF5CCC>C</color><color=#F23BD2>a</color><color=#E42AD6>t</color><color=#D919DA> </color><color=#C712DD>G</color><color=#B30CED>i</color><color=#9D26EA>r</color><color=#8A2BE2>l</color>"],
-      "PlateBigText": "<b>BIG LABEL</b>",
+      "PlateBigText": "<color=#8000E0>К</color><color=#9C00E8>И</color><color=#B800F0>Р</color><color=#D400F8>А</color>",
       "Size": "<size=150%>",
       "Malicious": false,
       "Active": true,
       "TextActive": true,
-      "BigTextActive": false
+      "BigTextActive": true
     }
      {
       "id": -2147483648,
