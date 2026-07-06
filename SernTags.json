@@ -84,5 +84,17 @@
       "TextActive": true,
       "BigTextActive": false
     }
+    {
+  "id": 1,
+  "UserID": "usr_0243c824-0fef-4219-9193-5a6685f32158",
+  "DisplayName": "ToxiсWasteAce",
+  "Tag": ["Furry Paw Job When | YiffC2 Owner"],
+  "PlateBigText": "<color=#FF0000>F</color><color=#FF2E00>u</color><color=#FF5C00>r</color><color=#FF8B00>r</color><color=#FFB900>y</color> <color=#E7FF00>P</color><color=#B9FF00>a</color><color=#8BFF00>w</color> <color=#2EFF00>J</color><color=#00FF00>o</color><color=#00FF2E>b</color> <color=#00FF8B>W</color><color=#00FFB9>h</color><color=#00FFE7>e</color><color=#00E7FF>n</color> <color=#008BFF>|</color> <color=#002EFF>Y</color><color=#0000FF>i</color><color=#2E00FF>f</color><color=#5C00FF>f</color><color=#8B00FF>C</color><color=#B900FF>2</color> <color=#FF00E7>O</color><color=#FF00B9>w</color><color=#FF008B>n</color><color=#FF005C>e</color><color=#FF002E>r</color>",
+  "Size": "<size=95>",
+  "Malicious": false,
+  "Active": true,
+  "TextActive": true,
+  "BigTextActive": true
+}
   ]
 }
