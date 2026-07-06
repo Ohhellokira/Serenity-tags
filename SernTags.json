@@ -31,7 +31,7 @@
       "Tag": ["<color=#FFFFFF>J</color><color=#DA85FF>E</color><color=#B60CFF>W</color>"],
       "PlateBigText": "<color=#FFFFFF>J</color><color=#DA85FF>E</color><color=#B60CFF>W</color>",
       "Size": "<size=150>",
-      "Malicious": true,
+      "Malicious": false,
       "Active": true,
       "TextActive": true,
       "BigTextActive": true
