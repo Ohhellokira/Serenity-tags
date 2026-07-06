@@ -25,19 +25,19 @@
       "BigTextActive": true
     }
     {
-      "id": -120,
+      "id": 101,
       "UserID": "usr_51c8af4b-f131-45b1-a5d1-141d186408ac",
       "DisplayName": "Ḿatt",
-      "Tag": ["<color=#FFFFFF>J</color><color=#DA85FF>E</color><color=#B60CFF>W</color>"],
-      "PlateBigText": "<color=#FFFFFF>J</color><color=#DA85FF>E</color><color=#B60CFF>W</color>",
+      "Tag": ["<color=#DE0000>W</color><color=#DA0117>e</color><color=#D7022E>n</color><color=#D30345>d</color><color=#CF045C>i</color><color=#CC0573>g</color><color=#C8078B>o</color><color=#C408A2> </color><color=#C109B9>u</color><color=#BD0AD0>s</color><color=#B90BE7>e</color><color=#B60DFF>r</color>"],
+      "PlateBigText": "",
       "Size": "<size=95>",
       "Malicious": false,
       "Active": true,
       "TextActive": true,
-      "BigTextActive": true
+      "BigTextActive": false
 }
     {
-      "id": -120,
+      "id": 100,
       "UserID": "usr_acab5e32-bc0c-4868-abfe-92118c339dc3",
       "DisplayName": "Wendigo-snow",
       "Tag": ["<color=#DE0000>S</color><color=#D10455>k</color><color=#C308AA>i</color><color=#B60DFF>d</color>"],
